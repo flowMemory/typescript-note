@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ts-axios-doc
 
 TypeScript 从零实现 axios 文档教材
@@ -23,3 +24,7 @@ npm run dev
 ```
 
 浏览器打开 `http://localhost:8080/ts-axios/` 即可。
+=======
+# typescript-note
+personal typescript study note
+>>>>>>> 4d6a8185484baf2afa0eb8c2f7bb2801cd551388
